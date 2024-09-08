@@ -22,7 +22,7 @@ export const Hero = () => {
                 <h1 className="text-5xl font-bold tracking-tighter text-center mt-8">Illumicheck</h1>
                 <p className="text-center text-xl mt-5">Illumicheck is your text editor not just for catching typos, but also for keeping track of your word count and accessing a dictionary.</p>
                 <div className="flex justify-center mt-8">
-                    <a href='https://github.com/yasingunaydiin/Illumicheck/tags' className='bg-white py-3 px-5 rounded-lg border border-black'>Download</a>
+                    <a href='https://github.com/yasingunaydiin/Illumicheck/releases' className='bg-white py-3 px-5 rounded-lg border border-black'>Download</a>
                 </div>
                 <div>
                 {/* Add this when the program works properly lol
